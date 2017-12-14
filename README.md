@@ -4,6 +4,8 @@
 
 * Child Labor _list of goods_: [https://www.dol.gov/ilab/reports/child-labor/list-of-goods/](https://www.dol.gov/ilab/reports/child-labor/list-of-goods/)
 
+[Analysis of the first dataset - youtube lecture](https://www.youtube.com/watch?v=K2EJA3b8HHU)
+
 
 * Child Labor _list of products_: [https://www.dol.gov/ilab/reports/child-labor/list-of-products/](https://www.dol.gov/ilab/reports/child-labor/list-of-products/)
 
