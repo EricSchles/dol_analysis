@@ -1,0 +1,11 @@
+import pandas as pd
+
+gdps = pd.read_csv("gdp_values.txt", sep=" ")
+with open("countries.txt", "r") as f:
+    countries = f.read().split("\n")
+df = gdps.copy()
+import code
+code.interact(local=locals())
+
+df["countries"] = countries
+df.to_csv("gdp.csv")

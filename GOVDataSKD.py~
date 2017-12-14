@@ -1,0 +1,7 @@
+import requests
+import json
+
+URL_API_V2 = "https://data.dol.gov"
+URL_API_V1 = "http://api.dol.gov"
+
+API_VALID_ARGUMENTS = "top skip select orderby filter".split()
